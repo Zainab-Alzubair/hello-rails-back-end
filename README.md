@@ -58,6 +58,7 @@ After you're finished please remove all the comments and instructions!
 > You can get a random message.
 
 **[messages_generator]** is a rails API project to generate a random message.
+React Repo https://github.com/Zainab-Alzubair/hello-react-front-end/tree/project-setup
 
 ## 🛠 Built With <a name="built-with"></a>
 
