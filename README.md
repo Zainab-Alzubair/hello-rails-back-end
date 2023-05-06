@@ -135,7 +135,9 @@ In new terminal,
 ```sh
 ./bin/dev
 ```
+To run the project, execute the following command:
 
+`rails s --port=1800`
 
 ### Deployment
 
